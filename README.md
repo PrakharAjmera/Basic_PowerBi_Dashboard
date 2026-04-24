@@ -1,5 +1,8 @@
 # 📊 Data Professional Survey Dashboard (Power BI)
 
+## 📌 About
+This is a guided project I completed while learning Power BI.
+
 ## 📌 Project Overview
 This project analyzes a survey of data professionals using Power BI.  
 The goal was to uncover insights about salaries, skills, and satisfaction levels.
@@ -15,7 +18,5 @@ The goal was to uncover insights about salaries, skills, and satisfaction levels
 - Power Query
 - DAX
 
-## 🚀 Learnings
-- Built interactive dashboards
-- Improved data storytelling
-- Practiced real-world data analysis
+## 💡 Note
+This project was created by following a tutorial to build foundational skills.
